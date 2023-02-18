@@ -1,0 +1,15 @@
+#notify{
+    --color: red;
+    display: block;
+    width: auto;
+    height: 5vh;
+    background-color: var(--color);
+    border-radius: 8px;
+}
+p{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: #fff;
+    padding: 5px 0;
+}
